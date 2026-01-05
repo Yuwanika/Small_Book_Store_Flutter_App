@@ -1,6 +1,6 @@
 # 📚 Flutter Book Store App
 
-A simple **Flutter Book Store App** built for the **CCS3351 Mobile Application Development – Mid Term Project** at **SLTC Research University**.
+A simple **Flutter Book Store App**
 
 ---
 
