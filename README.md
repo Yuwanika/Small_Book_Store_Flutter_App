@@ -1,6 +1,6 @@
 # 📚 Flutter Book Store App
 
- ** A simple Flutter Book Store App**
+ **A simple Flutter Book Store App**
 
 ---
 
